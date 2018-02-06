@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AppDev\\HusseinRip_2 - Copy\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\AppDev\\HusseinRip_2 - Copy\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AppDev\\HusseinRip_2\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\AppDev\\HusseinRip_2\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
